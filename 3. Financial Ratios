@@ -1,0 +1,162 @@
+Financial Ratios
+
+3.1 Liquidity Radios (6min)
+
+Liquidity Radios
+.A class of financial metrics
+.Used to degermine a company's ability to pay off its short-term debt obligations.
+.The higher the value of the ratio, the larger the margin of safety that the company
+possesses to cover short-term debts.
+investopedia.com
+
+Working Capital Ratio
+.Indicates wheter a company has enough short term assets to cover its short term debt
+
+Working Capital Ratio = Current Assets / Current Liabilities
+.Anything below 1 indicates negative W/C
+.Anything over 2 means the company is not investing excess assets
+.Most believe a ratio between 1.2 and 2.0 is sufficient
+
+Quick Ratio (Acid Test)
+.Measures a company's ability to meet its short-term obligations with its most liquid assets
+Quick Ratio = (current assets - inventories) / current liabilites
+.Excludes inventories from current assets
+.Measures the dollar amount of liquid assets available for each dollar of current liabilities
+.The higher the quick ratio, the better the company's liquidity position.
+
+--__--__--
+
+3.2 Asset, Profitability, and Debt Ratios (9min)
+
+Asset Turnover Ratios
+.A class of financial metrics
+.Used to measure the turnover of assets such as inventory and accounts receivable
+
+Inventory Turnover Ratio
+.A ratio showing how many times a company's inventory is sold and replaced over a period.
+Inventory Turnover Ratio = Sales / Inventory
+or
+Inventory Turnover Ratio = Costs of Goods Sold / Average Inventory
+
+Accounts Receivable Collection Period
+.Approximate amount of time it takes for a business to receive payments owed
+.Given in terms of receivables, from its customers and clients.
+
+Accounts Recievale Collection Period = Average Accounts Receivable / Average Daily Sales.
+
+Profitability Ratios
+.Used to assess a business's ability to generate earnings as compared to its expenses and
+other relevant costs incurred during a specific period of time
+.Having a higher value relative to a competitor's ratio is favorable
+.Having the same ratio from a previous period is indicative that the company is doing well
+.Background knowledge is necessary in order to make relevant comparisons
+
+Return on Equity (ROE)
+ROE = Net Income / Shareholder's Equity
+.Amount of net income returned as a percentage of shareholders equity
+.Measures a corporation's profitability by revealing how much profit a company generates
+with the money shareholders have invested
+
+Return on Assets (ROA)
+.Indicator of how profitable a company is relative to its total assets
+ROA = Net Profit / Total Assets
+.Gives an idea as to how efficient management is at using its assets to generate earnings
+.Displayed as a percentage
+.Tells you what earnings were generated from invested capital (assets)
+
+Return of Investment (ROI)
+.Used to evaluate the efficiency of an investment or to compare different investments
+ROI = (Gain from investment - Cost of investment) / Cost of investment
+.Popular metric because of its versatility and simplicity
+.If an investment does not have a positive ROI, or if there are other opportunities
+with a higher ROI, then the investment should be not be undertaken.
+
+Return on Capital Employed
+.Measures a company's profitability and the efficiency with which its capital is employed
+ROCE = Earning Before Interest and Tax (EBIT) / Capital Employed (Assets - Current Liabilities)
+.Instead of using capital employed at an arbitrary point in time, analysts and investors often
+calculate ROCE based on "Average Capital Employed"
+
+Debt Ratios
+.Give a general idea of the company's overall debt load and mix of equity and debt.
+Can be used to determine the overall level of financial risk a company and its shareholders face
+.The greater amount of debt held by a company, the greater the financial risk of bankruptcy
+
+Debt Ratio
+.Measures the extent of a company's leverage
+Debt Ratio = Total Debt / Total Assets
+.Interpreted as the proportion of a company's assets that are financed by debt
+.The higher this ratio, the more leveraged the company and the freater its financial risk
+.Debt ratios vary widely across industries.
+
+Debt-Equity Ratio
+.Compares a company's total liabilities to its total equity
+Debt-Equity Ratio = Total Liabilities / Total Shareholder's Equity
+.Measurement of how much suppliers, lenders, creditors and obligors have committed to the company
+versus what the shareholders have committed
+.Compares total liabilities to shareholder's equity (as opposed to total assets in the debt ratio).
+.A lower the percentage means that a company is using less leverage and hass a stronger equity position
+
+--__--__--
+
+3.3 DuPont Pyramid (2min)
+
+DuPont Pyramid
+DuPont analysis tell us that ROE if affected by 3 things:
+
+1.Operating efficiency (measured by Profit Margin)
+Profit Margin 
+Profit Margin = Profit / Sales
+
+2.Asset use efficiency (measured by Total Asset Turnover)
+.Amount of sales or revenues generated per dollar of assets
+Total Asset Turnover = Sales or Revenues / Assets
+.Indicator of the efficiency with which a company is deploying its assets.
+The higher the ratio, the better, since this implies the company is generating more revenues per dollar
+of assets.
+
+3.Financial leverage (measured by the Equity Multiplier)
+.Measurement of a company's financial leverage
+The Equity Multiplier = Assets / Equity
+.A high equity multiplier indicates that a larger portion of asset financing is being done through debt
+.The multiplier is a variation of the debt ratio
+
+--__--__--
+
+3.4 Earnings and Dividends (3min)
+
+Earning & Dividends
+.Valuation ratios can be used by investors to estimate the value of a potential or existing investment
+.Investment Valuation ratios simplify the evaluation process by comparing relevant data to help gain
+an estimate of value
+
+Earning Per Share
+.The portion of an company's profit allocated to each outstanding share of common stock
+.Indicator of a company's profitability
+(Net Income - Dividends on Preferred Stock ) / Average Outstanding Shares
+
+Dividends Per Share (DPS)
+.Sum of declared dividends for every ordinary share issued
+Dividends Per Share = (Dividends - Special Dividends) / Number of Shares Outstanding
+
+Price-Earning Ratio
+.A valuation ratio of a company's current share price compared to its per-share earnings
+P/E Ratio = Market Value Per Share / Earnings Per Share
+
+--__--__--
+
+Module 3 Lecture Slides (Reading)
+
+Lecture Slides
+
+Liquidity Ratios
+https://d396qusza40orc.cloudfront.net/flex-financeforpeople/lecture_slides/Module%203%20Lecture%201%20--%20Liquidity%20Ratios.pdf
+
+Asset, Profitability, and Debt Ratios
+https://d396qusza40orc.cloudfront.net/flex-financeforpeople/lecture_slides/Module%203%20Lecture%202%20--%20Asset%2C%20Profitability%2C%20and%20Debt%20Ratios.pdf
+
+DuPont Pyramid
+https://d396qusza40orc.cloudfront.net/flex-financeforpeople/lecture_slides/Module%203%20Lecture%203%20--%20DuPont%20Pyramid.pdf
+
+Earnings and Dividends
+https://d396qusza40orc.cloudfront.net/flex-financeforpeople/lecture_slides/Module%203%20Lecture%204%20--%20Earnings%20and%20Dividends.pdf
