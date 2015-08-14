@@ -29,11 +29,58 @@ The Market Cap is:
 
 4.2 Valuation Methods (9min)
 
+Valuation Methods
+1. Market Valuation
+2. Multiples Method
+3. Discounted Cash Flow (DCF) Analysis
 
+2. Multiples Method
+.Useful for comparing companies in a sector
+.Look at which multiples are used for other companies in the industry to ascertain equity value
+.Examples of these valuation multiples include:
+..Price/earning multiples (P/E ratios)
+..EBITDA multiples
+
+Ex.) Multiples Method
+What is the value of Company A which has:
+.Debt = $100 million
+.Annual sales = $180 million
+.EBITDA = $70 million
+.Earnings = $40 million
+
+Common Stock Comparison
+Company|Value(Market Cap)|Sales|EBITDA|Earnings|
+1           900             220   115     82
+2           700             190   90      60
+3           650             280   68      42
+4           320             150   45      26
+
+Multiples
+Company|Sales Multiples(Market Cap/Sales)|EBITDA|Price to Earnings Multiples (market Cap/ Earnings)|
+1             4.1                           7.8             11.0
+2             3.7                           7.8             11.7
+3             2.3                           9.6             15.5
+4             2.1                           7.1             12.3
+Average       3.1                           8.1             12.6
+
+Multiples Valuation
+Using the sales multiple:
+Company A's sales of $180 million x 3.1 (average sales multiple) = $558 million (Enterprise Value) - $100 million (Net Debt) = $458 million (Equity Value)
+
+Using the EBITDA multiple:
+Company A's EBITDA of $70 million x 8.1 (average EBITDA multiple) = $565 million (enterprise Value) - $100 million (Net Debt) = $465 million (Equity Value)
+
+Using the price-to-earning multiple:
+Company A's earning of $40 million x 12.6 (average price-to-earning multiple) = $504 million (Enterprise Value) - $100 million (Net Debt) = $404 million (Equity Value)
+
+Using the multiples method:
+Enterprise Value of our company is estimated at between $505 and $565 million
+Accounting for debt, our company's Equity Value is between $405 and $465 million dollars
 
 --__--__--
 
 4.3 NPV and IRR (15min)
+
 
 --__--__--
 
