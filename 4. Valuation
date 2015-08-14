@@ -81,9 +81,69 @@ Accounting for debt, our company's Equity Value is between $405 and $465 million
 
 4.3 NPV and IRR (15min)
 
+Valuation Methods
+1. Market Valuation
+2. Multiples Method
+3. Discounted Cash Flow (DCF) Analysis
+
+3. Discounted Cash Flow (DCF)
+. A very thorough way to value a company
+. Uses a company's free cash flow and a discount rate to calculate the Net Present Value (NPV)
+. Free cash flows can be used to calculate the Internal Rate of Return (IRR)
+
+Net Present Value (NPV)
+Using the time value of money concept, NPV tells us what the future cash flows of the company
+are worth in "today's money"
+
+Net Present Value(NPV)
+.Takes into account the company's current cost of capital in the form of WACC (weighted average cost of capital)
+
+Internal Rate of Return (IRR)
+.IRR is the yield of an investiment expressed as a percentage
+.If the IRR is greater than WACC (i.e. IRR > WACC), then the project's rate of return is greater than its costs.
+
+NPV vs IRR
+.Entrepreneurs and investors tend to prefer NPV
+.Managers tend to like IRR
+.IRR gives an investment yield as a percentage while NPV gives an actual monetary amount
+.Only NPV can actually value an investment
+.If cash flows go positive and then again drop into the negative, the IRR equation can be flawed.
+.At that point, often only NPV can offer a credible value
+
+Relationship between NPV and IRR
+.IRR is the discount rat at which the NPV = 0
+.If the IRR is 21% and calculating the NPV using a 21% discount rate, then NPV should equal "0".
+.Excel has functions to calculate both NPV and IRR
+
+Discount Rate
+.A monetization of risk associated with a venture
+.Cash flow are discounted by this rate to determine present value "net of risk"
+.At the lowest, we use inflation, at the highest, we use speculated risk
+.For an existing business, we can use WACC (the risk assigned by the market)
+
+Ex.) Weighted Average Cost of Capital (WACC)
+Debt structure of a company:
+45% debt at 6% interest
+55% common equity at 13%
+
+WACC = (0.45 x 6%) + (0.55 x 13%) = 2.7% + 7.15% = 9.85%
+* This company should take projects that have estimated returns above 9.85%
 
 --__--__--
 
 4.4 Discount Rates (2min)
 
 --__--__--
+
+Lecture Slides
+
+Market Methods
+https://d396qusza40orc.cloudfront.net/flex-financeforpeople/lecture_slides/Module%204%20Lecture%201%20--%20Market%20Methods.pdf
+
+Multiples Methods
+https://d396qusza40orc.cloudfront.net/flex-financeforpeople/lecture_slides/Module%204%20Lecture%202%20--%20Multiples%20Methods.pdf
+
+NPV, IRR and Discount Rates
+https://d396qusza40orc.cloudfront.net/flex-financeforpeople/lecture_slides/Module%204%20Lecture%203%20--%20NPV%2C%20IRR%2C%20and%20Discount%20Rates.pdf
+
+
